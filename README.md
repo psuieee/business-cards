@@ -5,4 +5,4 @@ Your one stop shop for all information on the Business Cards project!
 - [Template Project](https://github.com/psuieee/business-cards/raw/refs/heads/main/template/business-cards-template-project.zip)
 
 ## Meeting Slides
-- TBD
+- [Schematics](https://github.com/psuieee/business-cards/blob/main/presentations/business-cards-schematics.pptx)
