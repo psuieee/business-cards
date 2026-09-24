@@ -1,2 +1,8 @@
-# business-cards
-Repository hosting information for the FA26 Business Cards project.
+# Business Cards
+Your one stop shop for all information on the Business Cards project!
+
+## Resources
+- TBD
+
+## Meeting Slides
+- TBD
