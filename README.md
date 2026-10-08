@@ -8,3 +8,4 @@ Your one stop shop for all information on the Business Cards project!
 ## Meeting Slides
 - [Schematics](https://github.com/psuieee/business-cards/raw/refs/heads/main/presentations/business-cards-schematics.pptx)
 - [PCB](https://github.com/psuieee/business-cards/raw/refs/heads/main/presentations/business-cards-pcb.pptx)
+- [PCB 2](https://github.com/psuieee/business-cards/raw/refs/heads/main/presentations/business-cards-pcb-2.pptx)
